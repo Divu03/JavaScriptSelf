@@ -1,5 +1,5 @@
 let str = "  o v b ";
 
-str.replace(" ","");
+let rstr = str.replace("o","m");
 
-print(str);
+console.log(rstr);
