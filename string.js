@@ -36,4 +36,4 @@ console.log(swstr);
 let iostr = str.indexOf("i",5)
 console.log(iostr)
 
-console.log(String.raw`hi my name is divyesh you can follow me on x.com/divyesh11 $kuchhadia`)
+console.log(String.raw`hi i am divyesh you can follow me on x.com/divyesh11 $kuchhadia`)
