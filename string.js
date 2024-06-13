@@ -1,4 +1,4 @@
-let str = "  o v b 1";
+let str = "divyesh kuchhadia";
 
 let rstr = str.replace("o","m");
 console.log(rstr);
@@ -11,3 +11,6 @@ console.log(lstr);
 
 let ccstr = str.charCodeAt(2);
 console.log(ccstr);
+
+let ssstr = str.substring(2,5);
+console.log(ssstr);
