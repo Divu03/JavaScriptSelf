@@ -23,3 +23,17 @@ console.log(cpastr);
 
 let cstr = str.concat("hi from my side","second string");
 console.log(cstr);
+
+let restr = str.repeat(2);
+console.log(restr);
+
+let ewstr = str.endsWith("a",lstr);
+console.log(ewstr,str[16]);
+
+let swstr = str.startsWith("i",1);
+console.log(swstr);
+
+let iostr = str.indexOf("i",5)
+console.log(iostr)
+
+console.log(String.raw`hi my name is divyesh you can follow me on x.com/divyesh11 $kuchhadia`)
