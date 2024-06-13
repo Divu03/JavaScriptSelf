@@ -1,4 +1,4 @@
-let str = "  o v b ";
+let str = "  o v b 1";
 
 let rstr = str.replace("o","m");
 console.log(rstr);
@@ -6,5 +6,8 @@ console.log(rstr);
 let sstr = str.split("v");
 console.log(sstr);
 
-rstr = str.length;
-console.log(rstr);
+let lstr = str.length;
+console.log(lstr);
+
+let ccstr = str.charCodeAt(2);
+console.log(ccstr);
